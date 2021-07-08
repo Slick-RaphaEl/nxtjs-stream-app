@@ -8,7 +8,7 @@ https://nxtjs-stream-app.vercel.app/
 Tmdb api key: https://www.themoviedb.org/signup
 
 # How to use
-Clone the repo: git clone https://github.com/Slick-RaphaEl/chop-beta
+Clone the repo: git clone https://github.com/Slick-RaphaEl/nxtjs-stream-app
 
 Install NPM packages: npm install
 
